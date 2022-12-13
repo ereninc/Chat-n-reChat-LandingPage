@@ -1,7 +1,7 @@
 [x] Adding Custom CSS & Reset CSS
-[] Create container structure
-[] Get color variables from figma
-[] Header
+[x] Create container structure -> Makes everything positioned in middle in page
+[x] Get design variables from figma
+[x] Header
 [] Hero
 [] Companies
 [] Triple Horizontal Features
