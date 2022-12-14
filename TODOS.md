@@ -7,8 +7,10 @@
 [x] Triple Horizontal Features
 [x] Triple Vertical Features
 [x] Store links
-[] FAQ
-[] Footer
-[] RESPONSIVE last checks
-[] FAQ parts JS code
-[] Last touches
+[x] FAQ
+[x] Footer
+[x] RESPONSIVE last checks
+[x] FAQ parts JS code
+[x] Last touches
+
+Header needs to be responsive with hamburger menu or smh
