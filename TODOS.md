@@ -4,9 +4,9 @@
 [x] Header
 [x] Hero
 [x] Companies
-[] Triple Horizontal Features
-[] Triple Vertical Features
-[] Store links
+[x] Triple Horizontal Features
+[x] Triple Vertical Features
+[x] Store links
 [] FAQ
 [] Footer
 [] RESPONSIVE last checks
